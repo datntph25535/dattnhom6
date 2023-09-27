@@ -4,5 +4,4 @@ public class NguoiDung {
 
     private String tenNguoiDung;
 
-
 }
